@@ -9,7 +9,7 @@ Problems:
 
 Aims : 
 - This script allows a user to download files from ENA (EMBL-EBI) and other public databases, and prepare a VCF file ready for analysis solely on Google Colab, a Jupyter Notebook environment. 
-  - This is not intended to be the most efficient method, but a convenient and accessible alternative to many current methods/
+  - This is not intended to be the most efficient method, but a convenient and accessible alternative to many current methods used in bioinformatics.
 
 Status : In Development. (as of June 13th 2022)
 
