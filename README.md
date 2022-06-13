@@ -1,4 +1,4 @@
-# Genome_Analysis
+# Genome-CoLab
 
 tl;dr : An easy-to-use pipeline for obtaining genome files (FASTA/FASTQ) and preparing them for analysis on Google Colab.
 
